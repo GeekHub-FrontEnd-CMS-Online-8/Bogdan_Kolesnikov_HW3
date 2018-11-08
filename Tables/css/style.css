@@ -1,0 +1,30 @@
+.head   {
+    border: 1px solid grey;
+    margin: auto;
+    margin-bottom: 40px;
+    width: 100%;
+} 
+.center   {
+    border: 1px solid grey;
+    margin: auto;
+    margin-bottom: 40px;
+    width: 75%;
+} 
+.down   {
+    border: 2px solid grey;
+    border-collapse: collapse;
+    margin: auto;
+    margin-bottom: 40px;
+    width: 75%;
+} 
+th      {
+    border: 1px solid;
+    border-color: black grey grey black;
+}
+td      {
+    border: 1px solid;
+    border-color: black grey grey black;
+} 
+.first   {
+    font-weight: bold;
+}
